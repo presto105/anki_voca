@@ -1,0 +1,112 @@
+[
+    {
+        "korean": "정부는 빈곤율을 줄이기 위해 새로운 정책을 시행했습니다.",
+        "sentence": "The government implemented a new policy to reduce the ___ rate.",
+        "answer": "poverty",
+        "Lemma": "poverty",
+        "class": "명사",
+        "hint": "Refers to the state of being extremely poor.",
+        "definition": "빈곤, 가난",
+        "notes": "'Poverty rate'는 사회적 경제 상황을 나타낼 때 자주 사용됩니다.",
+        "examples": "Efforts to tackle the poverty rate are ongoing. / Poverty is a major challenge in developing nations."
+    },
+    {
+        "korean": "인종 차별은 여전히 세계적으로 해결되지 않은 문제입니다.",
+        "sentence": "Racial ___ remains an unresolved issue worldwide.",
+        "answer": "discrimination",
+        "Lemma": "discrimination",
+        "class": "명사",
+        "hint": "Unfair treatment based on race, gender, or other differences.",
+        "definition": "차별",
+        "notes": "'Racial discrimination'은 인종을 기반으로 한 부당한 대우를 나타냅니다.",
+        "examples": "Discrimination in the workplace has severe consequences. / The organization fights against all forms of discrimination."
+    },
+    {
+        "korean": "그 보고서는 교육의 평등이 경제 성장을 촉진할 수 있음을 보여줍니다.",
+        "sentence": "The report demonstrates that equal access to education can ___ economic growth.",
+        "answer": "promote",
+        "Lemma": "promote",
+        "class": "동사",
+        "hint": "To support or encourage progress.",
+        "definition": "촉진하다, 장려하다",
+        "notes": "'Promote'는 긍정적인 발전이나 성장을 지지할 때 사용됩니다.",
+        "examples": "Education promotes social mobility. / The government aims to promote investment in green energy."
+    },
+    {
+        "korean": "이 법안은 노동자의 권리를 보호하는 것을 목표로 합니다.",
+        "sentence": "This bill aims to protect the rights of ___ workers.",
+        "answer": "migrant",
+        "Lemma": "migrant",
+        "class": "형용사",
+        "hint": "Refers to individuals who move from one region or country to another for work.",
+        "definition": "이주하는",
+        "notes": "'Migrant workers'는 더 나은 생활 조건을 위해 이동하는 사람들을 나타냅니다.",
+        "examples": "Migrant workers often face significant challenges. / Policies should address the needs of migrant communities."
+    },
+    {
+        "korean": "청소년 실업률은 국가 경제에 큰 영향을 미칩니다.",
+        "sentence": "Youth ___ has a significant impact on the national economy.",
+        "answer": "unemployment",
+        "Lemma": "unemployment",
+        "class": "명사",
+        "hint": "Refers to the state of not having a job.",
+        "definition": "실업",
+        "notes": "'Youth unemployment'은 경제적 문제를 논의할 때 자주 언급됩니다.",
+        "examples": "The government is addressing youth unemployment through job training programs. / High unemployment rates lead to social instability."
+    },
+    {
+        "korean": "소셜 미디어는 정보가 전파되는 방식을 혁신적으로 바꿨습니다.",
+        "sentence": "Social media has ___ the way information is disseminated.",
+        "answer": "transformed",
+        "Lemma": "transform",
+        "class": "동사",
+        "hint": "To change something completely, often in a positive way.",
+        "definition": "변혁하다, 변화시키다",
+        "notes": "'Transform'은 기술이나 사회적 혁신을 설명할 때 자주 사용됩니다.",
+        "examples": "The internet has transformed communication globally. / Transforming outdated systems is a priority for reform."
+    },
+    {
+        "korean": "기후 변화는 전 세계적으로 많은 사람들의 삶에 영향을 미치고 있습니다.",
+        "sentence": "Climate change ___ the lives of millions globally.",
+        "answer": "affects",
+        "Lemma": "affect",
+        "class": "동사",
+        "hint": "To have an influence on something.",
+        "definition": "영향을 미치다",
+        "notes": "'Affects'는 특정 현상이 사람이나 환경에 영향을 미칠 때 사용됩니다.",
+        "examples": "Climate change affects agriculture in many regions. / The new policy directly affects small businesses."
+    },
+    {
+        "korean": "사회적 불평등은 점점 더 심각한 문제가 되고 있습니다.",
+        "sentence": "Social inequality is becoming an increasingly ___ issue.",
+        "answer": "pressing",
+        "Lemma": "pressing",
+        "class": "형용사",
+        "hint": "Describes an issue requiring immediate attention.",
+        "definition": "긴급한, 시급한",
+        "notes": "'Pressing issue'는 즉각적인 해결이 필요한 문제를 나타냅니다.",
+        "examples": "Housing shortages are a pressing issue in urban areas. / Tackling pressing environmental problems is crucial."
+    },
+    {
+        "korean": "지속 가능한 에너지 사용은 현대 사회의 중요한 목표 중 하나입니다.",
+        "sentence": "Sustainable energy use is a key ___ in modern society.",
+        "answer": "objective",
+        "Lemma": "objective",
+        "class": "명사",
+        "hint": "Refers to a specific goal or target.",
+        "definition": "목표",
+        "notes": "'Objective'는 주로 프로젝트나 정책의 목표를 나타냅니다.",
+        "examples": "Reducing emissions is an important objective of the policy. / Achieving economic stability is a central objective."
+    },
+    {
+        "korean": "지역 사회 활동은 주민들 간의 유대를 강화할 수 있습니다.",
+        "sentence": "Community activities can strengthen the ___ among residents.",
+        "answer": "bond",
+        "Lemma": "bond",
+        "class": "명사",
+        "hint": "Refers to a strong connection or relationship.",
+        "definition": "유대, 연결",
+        "notes": "'Bond'는 사람들 간의 정서적 관계를 나타낼 때 사용됩니다.",
+        "examples": "Volunteering creates a strong bond between members. / The bond within the team was evident during the project."
+    }
+]
