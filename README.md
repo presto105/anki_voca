@@ -90,21 +90,24 @@ Anki 덱 생성을 위해 입력 JSON 파일은 다음과 같은 구조로 구�
 
 ### 앞면 (사용자 입력)
 ```
-버리다  
-He decided to ___ the plan.  
-[사용자가 타이핑]
+The government implemented a new policy to reduce the _____ rate.
 
-[Submit] [Show Hint] [Show First Letter]
+Submit
+Hint: Show Hint
+First Letter: Show First Letter
 ```
 
 ### 뒷면 (정답과 설명)
 ```
-Answer: 동사) abandon
-Definition: to leave behind
-Notes: common in literature
+Answer: 명사) poverty
+
+Definition: 빈곤, 가난
+
+Notes: 'Poverty rate'는 사회적 경제 상황을 나타낼 때 자주 사용됩니다.
+
 Examples:
-He abandoned his car  
-She abandoned hope
+Efforts to tackle the poverty rate are ongoing.
+Poverty is a major challenge in developing nations.
 ```
 
 ---
